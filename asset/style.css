@@ -1,0 +1,27 @@
+*{
+    font-family:montserrat;
+}
+.section-padding{
+    padding: 100px 5px 5px 5px;
+    background: white;
+    
+
+}
+.img-thumbnail{
+    display: block;
+    padding: 5px;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+.math{
+    padding:10px;
+}
+.rumus{
+    display:flex;
+    justify-content:center;
+}
+#home{
+    
+}
